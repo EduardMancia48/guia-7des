@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55A196D1-6AAA-4933-BE92-2FA6557BE3A0}|API_Gateway\\API_Gateway.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\api_gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55A196D1-6AAA-4933-BE92-2FA6557BE3A0}|API_Gateway\\API_Gateway.csproj|solutionrelative:api_gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A196D1-6AAA-4933-BE92-2FA6557BE3A0}|API_Gateway\\API_Gateway.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\api_gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A196D1-6AAA-4933-BE92-2FA6557BE3A0}|API_Gateway\\API_Gateway.csproj|solutionrelative:api_gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\productoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\libroapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\libroapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Migrations\\20240830005632_Migracion Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibroAPI\\Migrations\\20240830005632_Migracion Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\productoapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\libroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\productoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\productoapi\\productoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\productoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\libroapi\\models\\librocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\models\\librocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\libroapi\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\productoapi\\models\\productocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\models\\productocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\libroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0572A495-8F51-4CCE-B525-86A96E34A703}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\productoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\productoapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|c:\\users\\luz\\source\\repos\\api_gateway\\productoapi\\migrations\\20240830002403_migracion inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4314D578-803B-415C-A218-B7106D0AA8BE}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\migrations\\20240830002403_migracion inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\API_Gateway\\ocelot.json",
+              "RelativeDocumentMoniker": "API_Gateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\API_Gateway\\ocelot.json",
+              "RelativeToolTip": "API_Gateway\\ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T01:08:33.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\API_Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "API_Gateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\API_Gateway\\Program.cs",
+              "RelativeToolTip": "API_Gateway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:04:07.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductoAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductoAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T01:01:17.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LibroAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LibroAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T01:00:06.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "LibroAPI\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "LibroAPI\\Controllers\\LibrosController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:57:33.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240830005632_Migracion Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Migrations\\20240830005632_Migracion Inicial.cs",
+              "RelativeDocumentMoniker": "LibroAPI\\Migrations\\20240830005632_Migracion Inicial.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Migrations\\20240830005632_Migracion Inicial.cs",
+              "RelativeToolTip": "LibroAPI\\Migrations\\20240830005632_Migracion Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:56:32.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoAPI.http",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\ProductoAPI.http",
+              "RelativeDocumentMoniker": "ProductoAPI\\ProductoAPI.http",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\ProductoAPI.http",
+              "RelativeToolTip": "ProductoAPI\\ProductoAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-30T00:54:40.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LibroAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Program.cs",
+              "RelativeToolTip": "LibroAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:52:39.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LibroAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\appsettings.json",
+              "RelativeToolTip": "LibroAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T00:48:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibroContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Models\\LibroContext.cs",
+              "RelativeDocumentMoniker": "LibroAPI\\Models\\LibroContext.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Models\\LibroContext.cs",
+              "RelativeToolTip": "LibroAPI\\Models\\LibroContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:28:50.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "LibroAPI\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\Models\\Libro.cs",
+              "RelativeToolTip": "LibroAPI\\Models\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:28:27.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ProductoAPI\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ProductoAPI\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:26:00.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240830002403_Migracion inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Migrations\\20240830002403_Migracion inicial.cs",
+              "RelativeDocumentMoniker": "ProductoAPI\\Migrations\\20240830002403_Migracion inicial.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Migrations\\20240830002403_Migracion inicial.cs",
+              "RelativeToolTip": "ProductoAPI\\Migrations\\20240830002403_Migracion inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:24:03.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Program.cs",
+              "RelativeToolTip": "ProductoAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:19:14.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductoAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\appsettings.json",
+              "RelativeToolTip": "ProductoAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T00:18:02.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Models\\ProductoContext.cs",
+              "RelativeDocumentMoniker": "ProductoAPI\\Models\\ProductoContext.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Models\\ProductoContext.cs",
+              "RelativeToolTip": "ProductoAPI\\Models\\ProductoContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:10:01.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ProductoAPI\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\Models\\Producto.cs",
+              "RelativeToolTip": "ProductoAPI\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:07:13.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
