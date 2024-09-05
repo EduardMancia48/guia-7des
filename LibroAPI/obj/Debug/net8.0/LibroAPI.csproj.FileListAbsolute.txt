@@ -250,3 +250,4 @@ C:\Users\Luz\source\repos\API_Gateway\LibroAPI\bin\Debug\net8.0\runtimes\win\lib
 C:\Users\Luz\source\repos\API_Gateway\LibroAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Luz\source\repos\API_Gateway\LibroAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Luz\source\repos\API_Gateway\LibroAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Luz\source\repos\API_Gateway\LibroAPI\obj\Debug\net8.0\LibroAPI.sourcelink.json

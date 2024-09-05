@@ -11,13 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("API_Gateway")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4d4b808b422e70f06a9a80a113b29a308e24670")]
-[assembly: System.Reflection.AssemblyProductAttribute("API_Gateway")]
-[assembly: System.Reflection.AssemblyTitleAttribute("API_Gateway")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPartAttribute("Ocelot")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 
