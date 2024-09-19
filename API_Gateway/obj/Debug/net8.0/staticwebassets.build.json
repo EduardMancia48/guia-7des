@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "mPkHrDNCRqlUVhzyIZs01TYhFuzMPpDgLMJc+w5GLuU=",
+  "Hash": "IsmKdCrdQzvzFmDkL2zSVWxTOmbOgaf3T1HHKTcro8s=",
   "Source": "API_Gateway",
   "BasePath": "_content/API_Gateway",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\guia-7des\\LibroAPI\\LibroAPI.csproj",
+      "Version": 2,
+      "Source": "LibroAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": []
 }

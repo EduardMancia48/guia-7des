@@ -8275,11 +8275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\ProductoAPI.csproj",
+      "projectUniqueName": "D:\\guia-7des\\ProductoAPI\\ProductoAPI.csproj",
       "projectName": "ProductoAPI",
-      "projectPath": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\ProductoAPI.csproj",
+      "projectPath": "D:\\guia-7des\\ProductoAPI\\ProductoAPI.csproj",
       "packagesPath": "C:\\Users\\Luz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\ProductoAPI\\obj\\",
+      "outputPath": "D:\\guia-7des\\ProductoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luz\\AppData\\Roaming\\NuGet\\NuGet.Config",

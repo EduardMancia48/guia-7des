@@ -8275,11 +8275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\LibroAPI.csproj",
+      "projectUniqueName": "D:\\guia-7des\\LibroAPI\\LibroAPI.csproj",
       "projectName": "LibroAPI",
-      "projectPath": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\LibroAPI.csproj",
+      "projectPath": "D:\\guia-7des\\LibroAPI\\LibroAPI.csproj",
       "packagesPath": "C:\\Users\\Luz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\obj\\",
+      "outputPath": "D:\\guia-7des\\LibroAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luz\\AppData\\Roaming\\NuGet\\NuGet.Config",

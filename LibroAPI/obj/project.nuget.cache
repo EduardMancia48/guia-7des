@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J9iVRLwB648=",
+  "dgSpecHash": "djFhpvXlyHE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\LibroAPI.csproj",
+  "projectFilePath": "D:\\guia-7des\\LibroAPI\\LibroAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luz\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Luz\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
